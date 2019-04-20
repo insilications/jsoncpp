@@ -4,7 +4,7 @@
 #
 Name     : jsoncpp
 Version  : 1.8.4
-Release  : 5
+Release  : 6
 URL      : https://github.com/open-source-parsers/jsoncpp/archive/1.8.4.tar.gz
 Source0  : https://github.com/open-source-parsers/jsoncpp/archive/1.8.4.tar.gz
 Summary  : A C++ library for interacting with JSON
