@@ -1,0 +1,2 @@
+make -j16 check V=1 VERBOSE=1 || :
+ctest --parallel 16 -V --progress || :
